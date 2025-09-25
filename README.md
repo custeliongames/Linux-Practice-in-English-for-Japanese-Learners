@@ -5,4 +5,4 @@ Practice notes and sample scripts for learning Linux (in English) targeted at Ja
 
 - Show one English sentence from a file
 - Accepet Full user typing
-- Later: show differences between original and tyoed sentence
+- Later: show differences between original and typed sentence
